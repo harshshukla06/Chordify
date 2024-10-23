@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752628036470",
+    "project_id": "chordify-a4a26",
+    "storage_bucket": "chordify-a4a26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752628036470:android:5e53ccd71af87d16c98057",
+        "android_client_info": {
+          "package_name": "com.example.chordify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9FtwOYpkfxPOFzf2N3JpkmKKqHq_T_K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
